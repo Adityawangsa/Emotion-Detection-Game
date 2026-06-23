@@ -15,12 +15,12 @@ Aplikasi interaktif berbasis client-server untuk mendeteksi ekspresi wajah secar
 
 ## ✨ Fitur Utama
 
-✅ **Deteksi Ekspresi Real-time** - Menggunakan MediaPipe FaceMesh untuk analisis landmark wajah
-✅ **Arsitektur Client-Server** - Komunikasi TCP socket yang reliable
-✅ **Tiga Tipe Ekspresi** - Senyum, Terkejut, Netral
-✅ **Game Mode 60 Detik** - Putaran permainan dengan penghitungan skor otomatis
-✅ **Musik Latar** - Dukungan audio Pygame (opsional)
-✅ **Protocol Berbasis Baris** - Implementasi protocol custom yang sederhana namun robust
+- ✅ **Deteksi Ekspresi Real-time** - Menggunakan MediaPipe FaceMesh untuk analisis landmark wajah
+- ✅ **Arsitektur Client-Server** - Komunikasi TCP socket yang reliable
+- ✅ **Tiga Tipe Ekspresi** - Senyum, Terkejut, Netral
+- ✅ **Game Mode 60 Detik** - Putaran permainan dengan penghitungan skor otomatis
+- ✅ **Musik Latar** - Dukungan audio Pygame (opsional)
+- ✅ **Protocol Berbasis Baris** - Implementasi protocol custom yang sederhana namun robust
 
 ---
 
@@ -48,7 +48,8 @@ face-expression-game/
 ├── requirements.txt            # Dependency project
 ├── README.md                   # Dokumentasi ini
 └── assets/
-    └── game_music.mp3          # File musik (opsional)
+    └── game_music.mp3          # File musik backsound (opsional)
+    └── correct_music.mp3       # File musik sound effect (opsional)
 ```
 
 > **Catatan:** File `assets/game_music.mp3` bersifat opsional. Game tetap berjalan normal tanpa musik.
