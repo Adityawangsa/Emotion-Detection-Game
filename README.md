@@ -246,7 +246,7 @@ Proyek ini menggunakan lisensi **MIT**. Silakan gunakan, modifikasi, dan distrib
 
 ## 👨‍💻 Author
 
-**Aditya Wangsa**  
+**M. Syaikhul Ma'arif Adityawangsa**  
 Emotional Detection Project v1
 
 ---
